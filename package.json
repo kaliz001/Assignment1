@@ -1,0 +1,10 @@
+{
+    "name": "CS-4241-Assignment1-glitch",
+    "version": "0.1.0",
+    "description": "WPI CS 4241 first assignment",
+    "author": "Khatera Alizada",
+    "scripts": {
+        "start": "node server.js"
+    }
+
+}
